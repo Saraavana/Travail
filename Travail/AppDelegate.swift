@@ -3,7 +3,6 @@
 //  Travail
 //
 //  Created by Saravana on 30/08/18.
-//  Copyright © 2018 NFN Labs. All rights reserved.
 //
 
 import UIKit
